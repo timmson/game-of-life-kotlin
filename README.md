@@ -1,5 +1,7 @@
 # Game of Life
 
+More information - [https://www.elpassion.com/blog/how-to-code-more-complicated-logic-in-tdd](https://www.elpassion.com/blog/how-to-code-more-complicated-logic-in-tdd)
+
 ## Install JDK (on Ubuntu)
 
 ```sh
